@@ -1,4 +1,2 @@
-# Simple-Parallax-Button
-A simple animated parallax button made with CSS and Javascript
-
-Check out a live version here: https://codepen.io/zarrymyles/pen/GRoeqPp
+# Interactive CSS Elements
+A compiled repo of some cool Elements made with Vanilla CSS
